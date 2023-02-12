@@ -8,7 +8,7 @@
 
 body{
     overflow-x:hidden
-}
+} 
 .hero-header{
     width: 100%;
     height: 100%;
@@ -107,6 +107,12 @@ nav .navlinks li a{
     max-width: 500px;
     display: flex;
     flex-direction: column;
+}
+.hero-text h5 span .hi-color{
+    color: white;
+}
+.hi-color{
+    color: white;
 }
 .hero-text h5 span{
     color: #007ced;
